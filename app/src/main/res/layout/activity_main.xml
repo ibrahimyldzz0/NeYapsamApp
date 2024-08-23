@@ -1,0 +1,89 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F6F4F4"
+    android:backgroundTint="#DFCBCB"
+    android:hapticFeedbackEnabled="true">
+
+
+    <TextView
+        android:id="@+id/Textwiew"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:autoText="false"
+        android:ems="10"
+        android:inputType="text"
+        android:rotationX="21"
+        android:text="             NE YAPSAM"
+        android:textColor="#683232"
+        android:textColorHighlight="#AE2323"
+        android:textColorHint="#8BC34A"
+        android:textDirection="inherit"
+        android:textSize="34sp"
+        android:textStyle="bold|italic" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="160dp"
+        android:backgroundTint="#6D78BC"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/button8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="180dp"
+            android:backgroundTint="#B56666"
+            android:shadowColor="#FBF8F8"
+            android:text="ANA YEMEK"
+            android:textColorLink="#8A4F4F" />
+
+        <Button
+            android:id="@+id/button3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:backgroundTint="#B56666"
+            android:text="PİLAV " />
+
+        <Button
+            android:id="@+id/button7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:backgroundTint="#B56666"
+            android:text="MAKARNA" />
+
+        <Button
+            android:id="@+id/button4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:backgroundTint="#B56666"
+            android:text="SALATA" />
+
+        <Button
+            android:id="@+id/button6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:backgroundTint="#B56666"
+            android:text="MEZE" />
+
+        <Button
+            android:id="@+id/button5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:backgroundTint="#B56666"
+            android:text="TATLI" />
+
+    </LinearLayout>
+
+
+
+
+</RelativeLayout>
