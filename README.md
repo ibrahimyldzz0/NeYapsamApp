@@ -17,3 +17,16 @@ Bu Android uygulaması, yemek yapmayı düşünen ancak ne pişireceğine karar 
 
 - ## Katkıda Bulunma
 Katkıda bulunmak isterseniz, lütfen bir pull request oluşturun veya sorunları bildirin. Her türlü katkıya açığız!
+
+
+- ## Geliştirme
+ - Bu proje, kullanıcı deneyimini artırmak ve yeni özellikler eklemek amacıyla sürekli olarak geliştirilmektedir. Gelecekte yapılması planlanan iyileştirmeler arasında şunlar bulunmaktadır:
+
+- **Yemek Listesinin Genişletilmesi**: Kahvaltı ve aperatif öğünleri içerecek şekilde yemek tarifleri eklenmesi.
+- **Yeni Kategoriler**: Daha fazla yemek kategorisi ve çeşitli tariflerin eklenmesi.
+- **Gelişmiş Özellikler**: Kullanıcı geri bildirimleri doğrultusunda yeni özellikler ve iyileştirmeler.
+
+  
+  
+  ## Katkıda Bulunanlar
+- Halil Ibrahim Yıldız: Proje geliştirici.
