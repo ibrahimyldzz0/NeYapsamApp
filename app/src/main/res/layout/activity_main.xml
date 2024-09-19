@@ -26,8 +26,6 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_alignParentBottom="true"
-        android:layout_marginBottom="160dp"
         android:backgroundTint="#6D78BC"
         android:orientation="vertical">
 
@@ -35,7 +33,7 @@
             android:id="@+id/button8"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="180dp"
+            android:layout_marginTop="130dp"
             android:backgroundTint="#B56666"
             android:shadowColor="#FBF8F8"
             android:text="ANA YEMEK"
@@ -80,6 +78,14 @@
             android:layout_marginTop="20dp"
             android:backgroundTint="#B56666"
             android:text="TATLI" />
+
+        <Button
+            android:id="@+id/button9"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:backgroundTint="#B56666"
+            android:text="KAHVALTI" />
 
     </LinearLayout>
 
