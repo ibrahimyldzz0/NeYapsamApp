@@ -25,7 +25,13 @@ Katkıda bulunmak isterseniz, lütfen bir pull request oluşturun veya sorunlar�
 - **Yemek Listesinin Genişletilmesi**: Kahvaltı ve aperatif öğünleri içerecek şekilde yemek tarifleri eklenmesi.
 - **Yeni Kategoriler**: Daha fazla yemek kategorisi ve çeşitli tariflerin eklenmesi.
 - **Gelişmiş Özellikler**: Kullanıcı geri bildirimleri doğrultusunda yeni özellikler ve iyileştirmeler.
+- 
+  - ## İLK GÜNCELLEME
+  - Bu güncelleme ile aşağıdaki değişiklikler yapılmıştır:
+  - Uygulamaya yeni bir "Kahvaltı" bölümü eklendi.
+  - Kahvaltı bölümüne  yeni tarif eklendi:
 
+  
   
   
   ## Katkıda Bulunanlar
